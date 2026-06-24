@@ -19,7 +19,7 @@ While saving physical cash in a real-world piggy bank is satisfying, tracking th
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Okayimdone/piggy-bank-tracker.git](https://github.com/Okayimdone/piggy-bank-tracker.git)
+   git clone https://github.com/Okayimdone/piggy-bank-tracker.git
 
 
    pip install customtkinter
